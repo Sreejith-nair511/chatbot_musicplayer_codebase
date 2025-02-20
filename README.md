@@ -1,8 +1,12 @@
 The website looks absolutely fabulous but few more features can be added 
+
+
 1)one is for chatbot (general purpose or ai powered)
 the code attached is for genral purpose chatbot 
+
 2)music player or jukebox 
 to create ambienece and make it the best website 
+
 Few implementation from my own website 
 
 
